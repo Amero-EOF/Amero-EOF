@@ -1,4 +1,4 @@
-### About me
+### About me :)
 Security, Programming, and teaching is my passion
 
 Programming languages used: C, C++, C#, Java, JavaScript, PHP, Python, TypeScript, and LUA/LUAU
@@ -12,7 +12,7 @@ Compiler Development
 Application Development
 
 This is just the very tip of the iceberg of the things I've done, and I could go on for ages, but I'll spare you the details
+<hr>
 
-
-![](https://www.codewars.com/users/crushmero/badges/large)
-Profile: https://www.codewars.com/users/crushmero
+![](https://www.codewars.com/users/crushmero/badges/large)<br>
+[Profile Link](https://www.codewars.com/users/crushmero)
