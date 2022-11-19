@@ -1,16 +1,18 @@
-### Hi there 👋
+### About me
+Security, Programming, and teaching is my passion
 
-<!--
-**Amero-EOF/Amero-EOF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming languages used: C, C++, C#, Java, JavaScript, PHP, Python, TypeScript, and LUA/LUAU
 
-Here are some ideas to get you started:
+I LOVE finding new challenges and I branch off into a ton of different subjects for fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some programming subjects I've done:
+Web Development
+Game Development - Programming, Modelling
+Compiler Development
+Application Development
+
+This is just the very tip of the iceberg of the things I've done, and I could go on for ages, but I'll spare you the details
+
+
+![](https://www.codewars.com/users/crushmero/badges/large)
+Profile: https://www.codewars.com/users/crushmero
