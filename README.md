@@ -7,7 +7,7 @@ I LOVE finding new challenges and I branch off into a ton of different subjects 
 
 Here are some programming subjects I've done:
 * Web Development
-* Game Development - Programming, Modelling
+* Game Development - Programming & Modelling
 * Compiler Development
 * Application Development
 
