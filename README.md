@@ -6,10 +6,10 @@ Programming languages used: C, C++, C#, Java, JavaScript, PHP, Python, TypeScrip
 I LOVE finding new challenges and I branch off into a ton of different subjects for fun.
 
 Here are some programming subjects I've done:
-Web Development
-Game Development - Programming, Modelling
-Compiler Development
-Application Development
+* Web Development
+* Game Development - Programming, Modelling
+* Compiler Development
+* Application Development
 
 This is just the very tip of the iceberg of the things I've done, and I could go on for ages, but I'll spare you the details
 <hr>
